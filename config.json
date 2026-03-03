@@ -1,0 +1,10 @@
+{
+  "stake": { "min": 0.0001, "max": 0.00099 },
+  "unstake": { "min": 0.00011, "max": 0.0099 },
+  "claim": true,
+  "cycleHours": 24,
+  "delayBetweenTx": [10, 25],
+  "maxGasGwei": 2,
+  "threads": 60,
+  "mode": "safe"
+}
